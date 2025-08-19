@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "id": "001",
+      "name": "Margherita Pizza",
+      "description": "Classic wood-fired pizza with mozzarella, basil, and tomatoes.",
+      "price": 8.99,
+      "category": "Pizza",
+      "availability": true
+    },
+    {
+      "id": "002",
+      "name": "Pepperoni Pizza",
+      "description": "Topped with spicy pepperoni, mozzarella, and tomato sauce.",
+      "price": 9.49,
+      "category": "Pizza",
+      "availability": true
+    },
+    {
+      "id": "003",
+      "name": "Paneer Tikka Pizza",
+      "description": "Indian twist with marinated paneer, bell peppers, and spicy sauce.",
+      "price": 10.99,
+      "category": "Pizza",
+      "availability": true
+    },
+    {
+      "id": "004",
+      "name": "Veggie Supreme Pizza",
+      "description": "Loaded with mushrooms, olives, capsicum, and onions.",
+      "price": 9.99,
+      "category": "Pizza",
+      "availability": true
+    },
+    {
+      "id": "005",
+      "name": "BBQ Chicken Pizza",
+      "description": "Smoky BBQ sauce with grilled chicken and onions.",
+      "price": 11.49,
+      "category": "Pizza",
+      "availability": true
+    },
+    {
+      "id": "006",
+      "name": "Cheeseburger",
+      "description": "Juicy beef patty with cheddar cheese, lettuce, and tomato.",
+      "price": 6.99,
+      "category": "Burger",
+      "availability": true
+    },
+    {
+      "id": "007",
+      "name": "Veggie Burger",
+      "description": "Grilled veggie patty with lettuce, tomato, and mayo.",
+      "price": 5.99,
+      "category": "Burger",
+      "availability": true
+    },
+    {
+      "id": "008",
+      "name": "Chicken Burger",
+      "description": "Crispy fried chicken fillet with lettuce and spicy mayo.",
+      "price": 7.49,
+      "category": "Burger",
+      "availability": true
+    },
+    {
+      "id": "009",
+      "name": "French Fries",
+      "description": "Crispy golden fries served with ketchup.",
+      "price": 3.49,
+      "category": "Snacks",
+      "availability": true
+    },
+    {
+      "id": "010",
+      "name": "Cheese Garlic Bread",
+      "description": "Toasted bread with garlic butter and melted cheese.",
+      "price": 4.49,
+      "category": "Snacks",
+      "availability": true
+    },
+    {
+      "id": "011",
+      "name": "Caesar Salad",
+      "description": "Fresh romaine lettuce wit
